@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <h1>Hello world</h1>
+    <h1 class="text-center">Hello world</h1>
   </div>
 </template>
 
